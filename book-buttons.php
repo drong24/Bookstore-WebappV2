@@ -1,7 +1,7 @@
 <!--
     php code for all things cart or favorites form related
 -->
-
+ 
 <?php
 session_start();
 
